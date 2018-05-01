@@ -310,3 +310,7 @@ header.masthead p {
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.9) !important;
 }
+
+.copyright {
+  background: #212529;
+}
